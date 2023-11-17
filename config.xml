@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cinabre_theme</name>
+	<displayName><![CDATA[Cinabre - Thème]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Module de gestion du thème sur-mesure pour Cinabre.]]></description>
+	<author><![CDATA[Klorel]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
